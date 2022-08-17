@@ -1,0 +1,1 @@
+import{_ as e,b as o,c as _}from"./index.0fe8b2eb.js";const c={},n={class:"componen"};function s(t,a,p,r,d,f){return o(),_("div",n)}const l=e(c,[["render",s],["__scopeId","data-v-3f617b68"]]);export{l as default};
